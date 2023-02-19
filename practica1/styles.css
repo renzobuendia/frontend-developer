@@ -9,6 +9,7 @@
     align-items: center;
     justify-content: center;
     background: #1d3557;
+    border-radius: 20px;
 }
 .main img{
     width: 150px;
